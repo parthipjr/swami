@@ -146,11 +146,11 @@ async def start(client, message):
                 f_caption = f"{title}"
             buttons = [
                 [
-                    InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                    InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                    InlineKeyboardButton('Group', url='https://t.me/moviemediazz'),
+                    InlineKeyboardButton('channel', url='https://t.me/moviemediass')
                 ],
                 [
-                    InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                    InlineKeyboardButton('Instagram', url=f'https://instagram.com/movie_.media._?utm_medium=copy_link')
                 ]
                 ]
             try:
